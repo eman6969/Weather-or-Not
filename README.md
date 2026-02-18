@@ -1,2 +1,2 @@
 # Weather-or-Not
-Senior Project Repository
+Integration Branch (where we test features to get merged)
